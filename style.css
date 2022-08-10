@@ -1,0 +1,24 @@
+*{
+    background-color:rgb(199, 199, 199);
+    font-family:  sans-serif;
+}
+.btns {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:  6px;
+  }
+  .btns:hover{
+    cursor: pointer;
+  }
+  .container{
+    margin: 200px 600px;
+    width: 600px;
+    height: 300px;
+ 
+  }
